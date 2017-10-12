@@ -1,0 +1,55 @@
+Player selections parsed successfully. Generating teams.
+
+mummy is over capacity. Removing a player at random.
+michael.longauer@groupbyinc.com was removed from mummy.
+mummy is over capacity. Removing a player at random.
+michael.vinogradov@groupbyinc.com was removed from mummy.
+mummy is over capacity. Removing a player at random.
+roland.gossage@groupbyinc.com was removed from mummy.
+mummy is over capacity. Removing a player at random.
+arvind.natarajan@groupbyinc.com was removed from mummy.
+mummy is over capacity. Removing a player at random.
+kevin.lim@groupbyinc.com was removed from mummy.
+
+After paring down teams, the following free agents remain: michael.longauer@groupbyinc.com,michael.vinogradov@groupbyinc.com,roland.gossage@groupbyinc.com,arvind.natarajan@groupbyinc.com,kevin.lim@groupbyinc.com
+
+Assigning free agents at random to their next most preferred, available room...
+
+kevin.lim@groupbyinc.com got their Round 2pick, The Ninja.
+
+michael.vinogradov@groupbyinc.com got their Round 2pick, The Ninja.
+
+roland.gossage@groupbyinc.com got their Round 2pick, The Ninja.
+
+arvind.natarajan@groupbyinc.com got their Round 3pick, The Prisoner.
+
+michael.longauer@groupbyinc.com got their Round 3pick, The Prisoner.
+
+Team generation complete. Final teams are as follows:
+{ final_destination: 
+   [ 'filip.francetic@groupbyinc.com',
+     'mengqi.zhu@groupbyinc.com' ],
+  butchers_basement: 
+   [ 'natalie.wong@groupbyinc.com',
+     'nishant.arora@groupbyinc.com',
+     'nicholas.offer@groupbyinc.com',
+     'david.lee@groupbyinc.com',
+     'ben.teichman@groupbyinc.com' ],
+  prisoner: 
+   [ 'akshaya.senthilkumar@groupbyinc.com',
+     'johann.tutor@groupbyinc.com',
+     'jim.chang@groupbyinc.com',
+     'arvind.natarajan@groupbyinc.com',
+     'michael.longauer@groupbyinc.com' ],
+  ninja: 
+   [ 'yanish.jutton@groupbyinc.com',
+     'victoria.johns@groupbyinc.com',
+     'kevin.lim@groupbyinc.com',
+     'michael.vinogradov@groupbyinc.com',
+     'roland.gossage@groupbyinc.com' ],
+  mummy: 
+   [ 'may.lam@groupbyinc.com',
+     'srikant.nayak@groupbyinc.com',
+     'osman.currim@groupbyinc.com',
+     'abegail.jakop@groupbyinc.com',
+     'kelsey.eaton@groupbyinc.com' ] }
