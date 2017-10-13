@@ -6,14 +6,20 @@ Factors leading to the changes that follow:
    - Kelsey Eaton has volunteered to switch out of the Mummy due to high demand
 
 Consequential effects to teams:
-- Natalie Wong volunteered to take her 2nd pick (Final Destination) over her 1st pick (Butcher's Basement) to balance the Beginner level rooms 
-- The free agents from the generation should be reassigned according to their picks, given new availability (since everyone else already has there 1st picks). This will be done in the same order the script randomly selected them:
+- Natalie Wong volunteered to take her 2nd pick (Final Destination) over her 1st pick (Butcher's Basement) to balance the
+Beginner level rooms 
+- The free agents from the generation should be reassigned according to their picks, given new availability (since everyone
+else already has there 1st picks). This will be done in the same order the script randomly selected them:
       1. Kevin Lim has been moved from Ninja (2nd pick) to the Mummy (1st pick).
       2. Michael Vinogradov has been moved from the Ninja (2nd pick) to the Mummy (1st pick).
       3. Roland Gossage remains in the Ninja (2nd pick), since the Mummy (1st pick) is now full again.
       4. Arvind Natarajan has been moved from the Prisoner (3rd pick) to Ninja (2nd pick), since the Mummy (1st pick) 
          is now full again.
-- Originally, I (Michael Longauer) would be moved from Prisoner (3rd pick) to Ninja (2nd pick) since there are only 3 on that team, but since Prisoner has the lower success rate of the 2 rooms, Kelsey and I have opted to be in Prisoner a form team of 5. The hope is that the team balancing (specifically for Final Destination and Prisoner) will give all of us the greatest chance of success. However, since I love unforgiving, fair "random" logic, if anyone insists I follow the original script and move to Ninja, I will do so.
+- Originally, I (Michael Longauer) would be moved from Prisoner (3rd pick) to Ninja (2nd pick) since there are only 3 on 
+that team, but since Prisoner has the lower success rate of the 2 rooms, Kelsey and I have opted to be in Prisoner a form 
+team of 5. The hope is that the team balancing (specifically for Final Destination and Prisoner) will give all of us the 
+greatest chance of success. However, since I love unforgiving, fair "random" logic, if anyone insists I follow the original 
+script and move to Ninja, I will do so.
 
 Final teams are as follows:
 
