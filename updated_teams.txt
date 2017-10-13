@@ -1,55 +1,49 @@
-Player selections parsed successfully. Generating teams.
+UPDATED ESCAPE ROOM TEAMS
 
-mummy is over capacity. Removing a player at random.
-michael.longauer@groupbyinc.com was removed from mummy.
-mummy is over capacity. Removing a player at random.
-michael.vinogradov@groupbyinc.com was removed from mummy.
-mummy is over capacity. Removing a player at random.
-roland.gossage@groupbyinc.com was removed from mummy.
-mummy is over capacity. Removing a player at random.
-arvind.natarajan@groupbyinc.com was removed from mummy.
-mummy is over capacity. Removing a player at random.
-kevin.lim@groupbyinc.com was removed from mummy.
+Factors leading to the changes that follow:
+   - Final Destination had only 2 players
+   - Mae Lam can no longer attend the event, freeing up a space in Mummy
+   - Kelsey Eaton has volunteered to switch out of the Mummy due to high demand
 
-After paring down teams, the following free agents remain: michael.longauer@groupbyinc.com,michael.vinogradov@groupbyinc.com,roland.gossage@groupbyinc.com,arvind.natarajan@groupbyinc.com,kevin.lim@groupbyinc.com
+Consequential effects to teams:
+- Natalie Wong volunteered to take her 2nd pick (Final Destination) over her 1st pick (Butcher's Basement) to balance the Beginner level rooms 
+- The free agents from the generation should be reassigned according to their picks, given new availability (since everyone else already has there 1st picks). This will be done in the same order the script randomly selected them:
+      1. Kevin Lim has been moved from Ninja (2nd pick) to the Mummy (1st pick).
+      2. Michael Vinogradov has been moved from the Ninja (2nd pick) to the Mummy (1st pick).
+      3. Roland Gossage remains in the Ninja (2nd pick), since the Mummy (1st pick) is now full again.
+      4. Arvind Natarajan has been moved from the Prisoner (3rd pick) to Ninja (2nd pick), since the Mummy (1st pick) 
+         is now full again.
+- Originally, I (Michael Longauer) would be moved from Prisoner (3rd pick) to Ninja (2nd pick) since there are only 3 on that team, but since Prisoner has the lower success rate of the 2 rooms, Kelsey and I have opted to be in Prisoner a form team of 5. The hope is that the team balancing (specifically for Final Destination and Prisoner) will give all of us the greatest chance of success. However, since I love unforgiving, fair "random" logic, if anyone insists I follow the original script and move to Ninja, I will do so.
 
-Assigning free agents at random to their next most preferred, available room...
+Final teams are as follows:
 
-kevin.lim@groupbyinc.com got their Round 2pick, The Ninja.
-
-michael.vinogradov@groupbyinc.com got their Round 2pick, The Ninja.
-
-roland.gossage@groupbyinc.com got their Round 2pick, The Ninja.
-
-arvind.natarajan@groupbyinc.com got their Round 3pick, The Prisoner.
-
-michael.longauer@groupbyinc.com got their Round 3pick, The Prisoner.
-
-Team generation complete. Final teams are as follows:
-{ final_destination: 
-   [ 'filip.francetic@groupbyinc.com',
-     'mengqi.zhu@groupbyinc.com' ],
-  butchers_basement: 
-   [ 'natalie.wong@groupbyinc.com',
-     'nishant.arora@groupbyinc.com',
-     'nicholas.offer@groupbyinc.com',
-     'david.lee@groupbyinc.com',
-     'ben.teichman@groupbyinc.com' ],
-  prisoner: 
-   [ 'akshaya.senthilkumar@groupbyinc.com',
-     'johann.tutor@groupbyinc.com',
-     'jim.chang@groupbyinc.com',
-     'arvind.natarajan@groupbyinc.com',
-     'michael.longauer@groupbyinc.com' ],
-  ninja: 
-   [ 'yanish.jutton@groupbyinc.com',
-     'victoria.johns@groupbyinc.com',
-     'kevin.lim@groupbyinc.com',
-     'michael.vinogradov@groupbyinc.com',
-     'roland.gossage@groupbyinc.com' ],
-  mummy: 
-   [ 'may.lam@groupbyinc.com',
-     'srikant.nayak@groupbyinc.com',
-     'osman.currim@groupbyinc.com',
-     'abegail.jakop@groupbyinc.com',
-     'kelsey.eaton@groupbyinc.com' ] }
+   Final_Destination: 
+     Filip.Francetic
+     Mengqi.Zhu
+     Natalie.Wong
+      
+   Butchers_Basement: 
+     Nishant.Arora
+     Nicholas.Offer
+     David.Lee
+     Ben.Teichman
+     
+   Prisoner: 
+     Akshaya.Senthilkumar
+     Johann.Tutor
+     Jim.Chang
+     Kelsey.Eaton
+     Michael.Longauer
+     
+   Ninja: 
+     Yanish.Jutton
+     Arvind.Natarajan
+     Victoria.Johns
+     Roland.Gossage
+     
+   Mummy: 
+     Kevin.Lim
+     Srikant.Nayak
+     Michael.Vinogradov     
+     Osman.Currim
+     Abegail.Jakop     
