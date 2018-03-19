@@ -4,7 +4,7 @@
 
 This script will take the selections from participants of the Groupby Escape Room event submitted via Google forms and place people on teams and fairly as possible. The basic, unsophisticated algorithm is this:
 - It will start by placing everyone on their Round 1 pick (the room they ranked most preferred).
-- The script enforces a maximum team size based on dividing people evenly across the rooms (5) given the number of RSVPs received (22). Any team found to be in excess of that number of team members will have a team member removed at random until it has been brought down to capacity. The participants removed from the teams are entered into a pool of free agents.
+- The script enforces a maximum team size based on dividing people evenly across the rooms given the number of RSVPs received. Any team found to be in excess of that number of team members will have a team member removed at random until it has been brought down to capacity. The participants removed from the teams are entered into a pool of free agents.
 -  Participants from the pool of free agents are selected one by one at random to be placed into an available team. The script attempts to put that person in his or her Round 2 pick if there is room; if not, it will attempt his or her Round 3 pick, and so on until they find a tema with space available. This continues until the pool of free agents is exhausted.
 
 ### Why do it this way?
