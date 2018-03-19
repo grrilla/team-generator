@@ -30,7 +30,7 @@ MANUAL UPDATE:
 We do not have enough participants to do all the rooms, so we have to eliminate one. I could have rewritten the script to
 accomodate this, but I have enough work things to do. Everyone got their first pick (as you can see form the output), but one
 room, Cabinet of Curiosities is supposed to accomodate 4-12 people and they only have three. Therefore, we are manually
-redistributing those 3 players to their second choices. Finally, two players RSVP'd without selecting rooms, so they are
+redistributing those 3 players to their second choices. Finally, 3 players RSVP'd without selecting rooms, so they are
 manually being placed in rooms to balance the headcount across teams. The final teams for the three rooms (selected by
 interest proportionate to capacity) are:
 
@@ -42,11 +42,12 @@ Dracula's Library (2-7 players)
    Srikant Nayak
    
 Charlotte (2-7 players)
-   Kelsey Eaton
-   Luke Liu
-   Michael Longauer
-   Olya Sanakoev
-   Greg Yaniw
+   Kelsey "EZ Killa" Eaton
+   Luke "The Dragon" Liu
+   Michael "Wildcat" Longauer
+   Olya "The Heff" Sanakoev
+   Greg "T-Bone" Yaniw
+   Daniel "Cupcake" Hicks
    
 The Surgeon (2-6 players)
    Carlo Ferrer
@@ -54,3 +55,5 @@ The Surgeon (2-6 players)
    Kris Tiu
    Jim Chang
    Arvind Natarajan
+   
+PS. If you want (or don't want) a nickname posted here, let me know (or make a PR)
