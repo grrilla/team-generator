@@ -1,0 +1,25 @@
+Player selections parsed successfully. Generating teams.
+
+
+After paring down teams, the following free agents remain: 
+
+Assigning free agents at random to their next most preferred, available room...
+
+Team generation complete. Final teams are as follows:
+{ draculas_library: 
+   [ 'yanish.jutton@groupbyinc.com',
+     'kevin.lim@groupbyinc.com',
+     'henrique.coelho@groupbyinc.com',
+     'shawna.lehman@groupbyinc.com' ],
+  charlotte: 
+   [ 'kelsey.eaton@groupbyinc.com',
+     'luke.liu@groupbyinc.com',
+     'michael.longauer@groupbyinc.com' ],
+  cabinet_of_curiosities: 
+   [ 'jim.chang@groupbyinc.com',
+     'olya.sanakoev@groupbyinc.com',
+     'gregory.yaniw@groupbyinc.com' ],
+  surgeon: 
+   [ 'carlo.ferrer@groupbyinc.com',
+     'john.fernandes@groupbyinc.com',
+     'kris.tiu@groupbyinc.com' ] }

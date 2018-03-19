@@ -1,5 +1,4 @@
 const csv = require('csvtojson');
-const MIN_PER_ROOM = 2;
 const MAX_PER_ROOM = {
   draculas_library: 7,
   charlotte: 7,
