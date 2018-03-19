@@ -1,6 +1,5 @@
 Player selections parsed successfully. Generating teams.
 
-
 After paring down teams, the following free agents remain: 
 
 Assigning free agents at random to their next most preferred, available room...
@@ -23,3 +22,35 @@ Team generation complete. Final teams are as follows:
    [ 'carlo.ferrer@groupbyinc.com',
      'john.fernandes@groupbyinc.com',
      'kris.tiu@groupbyinc.com' ] }
+
+<END OF RUN>
+
+MANUAL UPDATE:
+
+We do not have enough participants to do all the rooms, so we have to eliminate one. I could have rewritten the script to
+accomodate this, but I have enough work things to do. Everyone got their first pick (as you can see form the output), but one
+room, Cabinet of Curiosities is supposed to accomodate 4-12 people and they only have three. Therefore, we are manually
+redistributing those 3 players to their second choices. Finally, two players RSVP'd without selecting rooms, so they are
+manually being placed in rooms to balance the headcount across teams. The final teams for the three rooms (selected by
+interest proportionate to capacity) are:
+
+Dracula's Library (2-7 players)
+   Yanish Jutton
+   Kevin Lim
+   Henry Coelho
+   Shawna Lehman
+   Srikant Nayak
+   
+Charlotte (2-7 players)
+   Kelsey Eaton
+   Luke Liu
+   Michael Longauer
+   Olya Sanakoev
+   Greg Yaniw
+   
+The Surgeon (2-6 players)
+   Carlo Ferrer
+   John Fernandes
+   Kris Tiu
+   Jim Chang
+   Arvind Natarajand
