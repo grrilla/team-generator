@@ -1,0 +1,117 @@
+Player selections parsed successfully. Generating teams.
+
+deathRow is over capacity. Removing a player at random.
+chantal.desrochers@groupbyionc.com was removed from deathRow.
+
+deathRow is over capacity. Removing a player at random.
+daniel.moniz@groupbyinc.com was removed from deathRow.
+
+deathRow is over capacity. Removing a player at random.
+jesse.mykolyn@groupbyinc.com was removed from deathRow.
+
+deathRow is over capacity. Removing a player at random.
+caroline.hammond@groupbyinc.com was removed from deathRow.
+
+deathRow is over capacity. Removing a player at random.
+heather.tian@groupbyinc.com was removed from deathRow.
+
+deathRow is over capacity. Removing a player at random.
+joey.deol@groupbyinc.com was removed from deathRow.
+
+deathRow is over capacity. Removing a player at random.
+jeremiah.chen@groupbyinc.com was removed from deathRow.
+
+deathRow is over capacity. Removing a player at random.
+david.lee@groupbyinc.com was removed from deathRow.
+
+wineCellar is over capacity. Removing a player at random.
+damian.sandhu-franceschi@groupbyinc.com was removed from wineCellar.
+
+wineCellar is over capacity. Removing a player at random.
+jennifer.grose@groupbyinc.com was removed from wineCellar.
+
+wineCellar is over capacity. Removing a player at random.
+robyn.kasmara@groupbyinc.com was removed from wineCellar.
+
+After paring down teams, the following free agents remain: 
+chantal.desrochers@groupbyionc.com,
+daniel.moniz@groupbyinc.com,
+jesse.mykolyn@groupbyinc.com,
+caroline.hammond@groupbyinc.com,
+heather.tian@groupbyinc.com,
+joey.deol@groupbyinc.com,
+jeremiah.chen@groupbyinc.com,
+david.lee@groupbyinc.com,
+damian.sandhu-franceschi@groupbyinc.com,
+jennifer.grose@groupbyinc.com,
+robyn.kasmara@groupbyinc.com
+
+Assigning free agents at random to their next most preferred, available room...
+
+robyn.kasmara@groupbyinc.com got their Round 2pick, Devil's Advocate.
+
+caroline.hammond@groupbyinc.com got their Round 2pick, Death Row (Round 2).
+
+jeremiah.chen@groupbyinc.com got their Round 2pick, Death Row (Round 2).
+
+jesse.mykolyn@groupbyinc.com got their Round 2pick, Death Row (Round 2).
+
+jennifer.grose@groupbyinc.com got their Round 2pick, Devil's Advocate.
+
+heather.tian@groupbyinc.com got their Round 2pick, Death Row (Round 2).
+
+david.lee@groupbyinc.com got their Round 2pick, Death Row (Round 2).
+
+joey.deol@groupbyinc.com got their Round 2pick, Death Row (Round 2).
+
+daniel.moniz@groupbyinc.com got their Round 2pick, Death Row (Round 2).
+
+damian.sandhu-franceschi@groupbyinc.com got their Round 3pick, Death Row (Round 2).
+
+chantal.desrochers@groupbyionc.com got their Round 3pick, the Asylum.
+
+Team generation complete. Final teams are as follows:
+{ deathRow: 
+   [ 'kyle.murray@groupbyinc.com',
+     'jordan.camirand@groupbyinc.com',
+     'stanley.zhang@groupbyinc.com',
+     'tina.zhang@groupbyinc.com',
+     'cecile.he@groupbyinc.com',
+     'arri.ye@groupbyinc.com',
+     'simon.hamilton@groupbyinc.com',
+     'pooja.patel@groupbyinc.com' ],
+  asylum: 
+   [ 'amrith.srinivasan@groupbyinc.com',
+     'robyn.dalgleish@groupbyinc.com',
+     'kris.tiu@groupbyinc.com',
+     'arash.shahkar@groupbyinc.com',
+     'jim.chang@groupbyinc.com',
+     'hossain.hassan@groupbyinc.com',
+     'danny.farah@groupbyinc.com',
+     'chantal.desrochers@groupbyionc.com' ],
+  devilsAdvocate: 
+   [ 'swapnil.joshi@groupbyinc.com',
+     'susmitha.burra@groupbyinc.com',
+     'luke.liu@groupbyinc.com',
+     'linda.zhao@groupbyinc.com',
+     'aathavan.bagawan@groupbyinc.com',
+     'robyn.kasmara@groupbyinc.com',
+     'jennifer.grose@groupbyinc.com' ],
+  wineCellar: 
+   [ 'carlo.ferrer@groupbyinc.com',
+     'george.hodgson-abbott@groupbyinc.com',
+     'gareth.simpson@groupbyinc.com',
+     'rebecca.pollard@groupbyinc.com',
+     'jamie.jarvis@groupbyinc.com',
+     'cece.fan@groupbyinc.com',
+     'johann.tutor@groupbyinc.com',
+     'beckah.moscuzza@groupbyinc.com' ],
+  deathRow2: 
+   [ 'caroline.hammond@groupbyinc.com',
+     'jeremiah.chen@groupbyinc.com',
+     'jesse.mykolyn@groupbyinc.com',
+     'heather.tian@groupbyinc.com',
+     'david.lee@groupbyinc.com',
+     'joey.deol@groupbyinc.com',
+     'daniel.moniz@groupbyinc.com',
+     'damian.sandhu-franceschi@groupbyinc.com' ] }
