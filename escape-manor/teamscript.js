@@ -1,54 +1,48 @@
 const csv = require('csvtojson');
-const MAX_PER_ROOM = 8;
+const MAX_PER_ROOM = 10;
 
 var player_pool = {
   1: {
     deathRow: [],
     asylum: [],
     devilsAdvocate: [],
-    wineCellar: [],
-    deathRow2: []
+    wineCellar: []
   },
   2: {
     deathRow: [],
     asylum: [],
     devilsAdvocate: [],
-    wineCellar: [],
-    deathRow2: []
+    wineCellar: []
   },
   3: {
     deathRow: [],
     asylum: [],
     devilsAdvocate: [],
-    wineCellar: [],
-    deathRow2: []
+    wineCellar: []
   },
   4: {
     deathRow: [],
     asylum: [],
     devilsAdvocate: [],
-    wineCellar: [],
-    deathRow2: []
+    wineCellar: []
   },
   5: {
     deathRow: [],
     asylum: [],
     devilsAdvocate: [],
-    wineCellar: [],
-    deathRow2: []
+    wineCellar: []
   }
 }
 
 var final_teams = {};
 
 csv()
-  .fromFile('./escape-manor-responses-with-5-rooms.csv')
+  .fromFile('./escape-manor-responses.csv')
   .on('json', (obj) => {
     player_pool[obj.deathRow].deathRow.push(obj.email);
     player_pool[obj.asylum].asylum.push(obj.email);
     player_pool[obj.devilsAdvocate].devilsAdvocate.push(obj.email);
     player_pool[obj.wineCellar].wineCellar.push(obj.email);
-    player_pool[obj.deathRow2].deathRow2.push(obj.email);
   })
   .on('done', (error) => {
     if (error != undefined) {
@@ -63,7 +57,6 @@ csv()
       .concat(pareDownTeam('asylum'))
       .concat(pareDownTeam('devilsAdvocate'))
       .concat(pareDownTeam('wineCellar'))
-      .concat(pareDownTeam('deathRow2'));
 
       console.log('\nAfter paring down teams, the following free agents remain: ' + freeAgents);
       console.log('\nAssigning free agents at random to their next most preferred, available room...');
@@ -96,7 +89,7 @@ function pareDownTeam(room) {
 function assignToDifferentTeam(player, round) {
   if (player_pool[round].deathRow.indexOf(player) > -1 && final_teams.deathRow.length < MAX_PER_ROOM) {
     final_teams.deathRow.push(player);
-    console.log('\n' + player + ' got their Round ' + round + 'pick, Death Row (Round 1).');
+    console.log('\n' + player + ' got their Round ' + round + 'pick, Death Row.');
     return;
   } else if (player_pool[round].asylum.indexOf(player) > -1 && final_teams.asylum.length < MAX_PER_ROOM) {
     final_teams.asylum.push(player);
@@ -109,10 +102,6 @@ function assignToDifferentTeam(player, round) {
   } else if (player_pool[round].wineCellar.indexOf(player) > -1 && final_teams.wineCellar.length < MAX_PER_ROOM) {
     final_teams.wineCellar.push(player);
     console.log('\n' + player + ' got their Round ' + round + 'pick, the Wine Cellar.');
-    return;
-  } else if (player_pool[round].deathRow2.indexOf(player) > -1 && final_teams.deathRow2.length < MAX_PER_ROOM) {
-    final_teams.deathRow2.push(player);
-    console.log('\n' + player + ' got their Round ' + round + 'pick, Death Row (Round 2).');
     return;
   } else if (round < 5) {
     assignToDifferentTeam(player, round + 1);

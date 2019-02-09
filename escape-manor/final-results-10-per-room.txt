@@ -1,0 +1,92 @@
+Player selections parsed successfully. Generating teams.
+
+deathRow is over capacity. Removing a player at random.
+kyle.murray@groupbyinc.com was removed from deathRow.
+
+deathRow is over capacity. Removing a player at random.
+simon.hamilton@groupbyinc.com was removed from deathRow.
+
+deathRow is over capacity. Removing a player at random.
+jeremiah.chen@groupbyinc.com was removed from deathRow.
+
+deathRow is over capacity. Removing a player at random.
+tina.zhang@groupbyinc.com was removed from deathRow.
+
+deathRow is over capacity. Removing a player at random.
+jordan.camirand@groupbyinc.com was removed from deathRow.
+
+deathRow is over capacity. Removing a player at random.
+cecile.he@groupbyinc.com was removed from deathRow.
+
+wineCellar is over capacity. Removing a player at random.
+damian.sandhu-franceschi@groupbyinc.com was removed from wineCellar.
+
+After paring down teams, the following free agents remain: 
+kyle.murray@groupbyinc.com,
+simon.hamilton@groupbyinc.com,
+jeremiah.chen@groupbyinc.com,
+tina.zhang@groupbyinc.com,
+jordan.camirand@groupbyinc.com,
+cecile.he@groupbyinc.com,
+damian.sandhu-franceschi@groupbyinc.com
+
+Assigning free agents at random to their next most preferred, available room...
+
+jeremiah.chen@groupbyinc.com got their Round 2pick, Devil's Advocate.
+
+tina.zhang@groupbyinc.com got their Round 2pick, the Asylum.
+
+damian.sandhu-franceschi@groupbyinc.com got their Round 3pick, Devil's Advocate.
+
+cecile.he@groupbyinc.com got their Round 2pick, the Asylum.
+
+kyle.murray@groupbyinc.com got their Round 2pick, the Asylum.
+
+simon.hamilton@groupbyinc.com got their Round 3pick, Devil's Advocate.
+
+jordan.camirand@groupbyinc.com got their Round 2pick, Devil's Advocate.
+
+Team generation complete. Final teams are as follows:
+{ deathRow: 
+   [ 'joey.deol@groupbyinc.com',
+     'caroline.hammond@groupbyinc.com',
+     'stanley.zhang@groupbyinc.com',
+     'daniel.moniz@groupbyinc.com',
+     'jesse.mykolyn@groupbyinc.com',
+     'heather.tian@groupbyinc.com',
+     'arri.ye@groupbyinc.com',
+     'david.lee@groupbyinc.com',
+     'pooja.patel@groupbyinc.com',
+     'chantal.desrochers@groupbyionc.com' ],
+  asylum: 
+   [ 'amrith.srinivasan@groupbyinc.com',
+     'robyn.dalgleish@groupbyinc.com',
+     'kris.tiu@groupbyinc.com',
+     'arash.shahkar@groupbyinc.com',
+     'jim.chang@groupbyinc.com',
+     'hossain.hassan@groupbyinc.com',
+     'danny.farah@groupbyinc.com',
+     'tina.zhang@groupbyinc.com',
+     'cecile.he@groupbyinc.com',
+     'kyle.murray@groupbyinc.com' ],
+  devilsAdvocate: 
+   [ 'swapnil.joshi@groupbyinc.com',
+     'susmitha.burra@groupbyinc.com',
+     'luke.liu@groupbyinc.com',
+     'linda.zhao@groupbyinc.com',
+     'aathavan.bagawan@groupbyinc.com',
+     'jeremiah.chen@groupbyinc.com',
+     'damian.sandhu-franceschi@groupbyinc.com',
+     'simon.hamilton@groupbyinc.com',
+     'jordan.camirand@groupbyinc.com' ],
+  wineCellar: 
+   [ 'carlo.ferrer@groupbyinc.com',
+     'george.hodgson-abbott@groupbyinc.com',
+     'robyn.kasmara@groupbyinc.com',
+     'gareth.simpson@groupbyinc.com',
+     'rebecca.pollard@groupbyinc.com',
+     'jamie.jarvis@groupbyinc.com',
+     'cece.fan@groupbyinc.com',
+     'jennifer.grose@groupbyinc.com',
+     'johann.tutor@groupbyinc.com',
+     'beckah.moscuzza@groupbyinc.com' ] }
